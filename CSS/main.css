@@ -320,7 +320,6 @@ Header
   color: var(--clr-white);
   margin-top: 1.25rem;
   margin-bottom: 2rem;
-  /* Animation */
   animation: slideFromKiri 5s ease-in-out 1;
 }
 
